@@ -1,3 +1,0 @@
-Hi chakri,
-This testing branch really helpful 
-to get hand-on git practice.
